@@ -1,4 +1,4 @@
-# 💡 Smart CRUD - Java JSP Servlet MySQL
+#  Smart CRUD - Java JSP Servlet MySQL
 
 A full-stack CRUD (Create, Read, Update, Delete) application using **Java**, **JSP/Servlets**, and **MySQL**. This project demonstrates real-time data management with secure operations, RESTful routing and form validation.
 
