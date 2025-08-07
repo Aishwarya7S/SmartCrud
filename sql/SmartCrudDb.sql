@@ -1,0 +1,9 @@
+CREATE DATABASE smart_crud;
+USE smart_crud;
+
+CREATE TABLE users (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    country VARCHAR(50) NOT NULL
+);
